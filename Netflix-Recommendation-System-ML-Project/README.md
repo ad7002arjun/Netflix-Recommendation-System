@@ -60,27 +60,6 @@ pip install -r requirements.txt
 >>flask run
 ```
 
-# TeamMates
-
-👤 **Darshan Jain**
-- Github: https://github.com/Darshan1412
-- Linkedin: https://www.linkedin.com/in/Darshan-Jain1/
-- Email: darshanjain768@gmail.com
-
-👤 **Cryus Coutinho**
-- Github: https://github.com/CyrusCoutinho
-- Linkedin: https://www.linkedin.com/in/cyrus-coutinho-4b406b20a/
-- Email: cyruscoutinho77@gmail.com
-
-👤 **Elston Farel**
-- Github: https://github.com/ElstonFarel
-- Linkedin: https://www.linkedin.com/in/elston-farel-019a821a7/
-- Email: elstonfarel@gmail.com
-
-👤 **Seona Dabre**
-- Github: 
-- Linkedin: https://www.linkedin.com/in/seona-dabre-3b0666248/
-- Email: dabreseona18@gmail.com
 
 
 
